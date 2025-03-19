@@ -1,0 +1,12 @@
+.app-container {
+  background-image: url('https://wallpapercat.com/w/full/5/4/7/261689-3840x2160-desktop-4k-friendship-background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(50, 16, 201);
+  font-size: 2rem;
+}
